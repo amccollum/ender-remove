@@ -8,6 +8,7 @@
     "repositories": [{ "type": "git", "url": "https://github.com/amccollum/ender-remove.git" }],
     "licenses": [{ "type": "MIT", "url": "http://opensource.org/licenses/mit-license.php" }],
     
+    "main": "lib/index.js",
     "ender": "lib/ender.js",
     "directories": { "lib": "lib" },
     
